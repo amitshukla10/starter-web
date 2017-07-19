@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Amit Shukla     amitshukla@gmail.com  @amit
 
 # THANKS
 
