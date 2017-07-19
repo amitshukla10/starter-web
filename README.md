@@ -14,4 +14,8 @@ This is an example for comparsion.....
 
 ## Deployment
 
+Changes done in deployment
+
+Now changes without commiting it to remote master but only in staging area....
+
 ## How to contribute..
