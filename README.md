@@ -19,3 +19,7 @@ Changes done in deployment
 Now changes without commiting it to remote master but only in staging area....
 
 ## How to contribute..
+
+## Copyright
+
+@2017 Amit Shukla
